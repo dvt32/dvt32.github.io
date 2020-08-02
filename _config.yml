@@ -27,7 +27,7 @@ twitter_username:
 github_username: dvt32
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
  - jekyll-feed
 
